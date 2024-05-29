@@ -62,5 +62,13 @@
     {
         "name": "Chat GPT",
         "icon": "https://img.icons8.com/?size=60&id=ka3InxFU3QZa&format=png&color=000000"
+    },
+    {
+        "name": "Outlook",
+        "icon": "https://img.icons8.com/?size=60&id=13640&format=png&color=000000"
+    },
+    {
+        "name": "MS Office",
+        "icon": "https://img.icons8.com/?size=60&id=105244&format=png&color=000000"
     }
 ]
